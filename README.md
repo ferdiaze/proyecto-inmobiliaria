@@ -1,2 +1,2 @@
 # proyecto-inmobiliaria
-pagina web imnbiliaria
+pagina web inmobiliaria
